@@ -1,0 +1,157 @@
+
+
+
+
+
+.header
+{
+color: white;
+background-color: rgb(2, 41, 75); 
+margin-inline: 10%;
+margin-bottom:10px;
+padding-bottom: 10px;
+border-radius: 20px;
+text-align: center;
+height: 150px;
+}
+
+.links a {
+    float: left;
+    width: 20%;
+    margin: 10px 2.5%;
+    background: white;
+    border-radius: 20px;
+    margin-block: 10px;
+    box-sizing: border-box;
+}
+
+    
+#About-me {
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75);
+    color: white;
+    margin-inline: 15%;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-block: 10px;
+}
+
+.about-content {
+    text-align: left;
+    margin: 10px;
+    background-color: rgb(2, 41, 75);
+}
+
+.myphoto {
+    width: 10%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 15%;
+}
+
+#talk {
+    background-color: rgb(2, 41, 75);
+    color: white;
+    
+}
+
+
+
+#Myskills {
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75);
+    color: white;
+    margin: 20px 15%;
+    text-align: center;
+    padding: 20px;
+}
+
+#Myskills hr,
+#Experience hr,
+#Contact hr {
+    border: 0;
+    border-top: 1px solid white;
+    margin: 15px 0;
+}
+
+
+#html5,
+#css3,
+#java,
+#react {
+    display:inline-flex ;
+    width: 19%;
+    min-height: 90px;
+    margin: 10px 1%;
+    padding: 10px;
+    background-color: rgb(14, 81, 107);
+    border-radius: 15px;
+    text-align: left;
+}
+
+#html5 h4,
+#css3 h4,
+#java h4,
+#react h4 {
+    margin: 5px;
+}
+
+
+#Experience {
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75);
+    color: white;
+    margin: 20px 15%;
+    text-align: left;
+    padding: 20px;
+}
+
+#Experience h2 {
+    text-align: center;
+}
+
+#first,
+#second {
+    background-color: rgb(14, 81, 107);
+    border-radius: 15px;
+    margin: 15px 0;
+    padding: 15px;
+    border-left: 5px solid #70a9c5;
+}
+
+
+#Contact {
+    border-radius: 20px;
+    background-color: rgb(2, 41, 75);
+    color: white;
+    margin: 20px 15%;
+    text-align: left;
+    padding: 20px;
+}
+
+#Contact h2,
+#Contact h3 {
+    text-align: left;
+}
+
+#Contact h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+#gmail,
+#linkedin,
+#Github {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: rgb(14, 81, 107);
+    border-radius: 10px;
+    text-align: center;
+}
+
+#Contact a {
+    color: white;
+}
+
+
